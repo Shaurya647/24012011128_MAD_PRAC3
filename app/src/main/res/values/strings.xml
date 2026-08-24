@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">24012011128_MAD_Pracctical3</string>
+    <string name="email_id">Email Id</string>
+    <string name="todo">TODO</string>
+    <string name="web_url">Web Url :</string>
+    <string name="https_www_google_com">https://www.google.com</string>
+    <string name="browse">Browse</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password ?</string>
+    <string name="login">Login</string>
+    <string name="phone_no">Phone No. :</string>
+    <string name="call">Call</string>
+    <string name="_9999999999">9999999999</string>
+    <string name="gallery">Gallery:</string>
+    <string name="call_log">Call Log:</string>
+    <string name="enter_url">enter_url</string>
+    <string name="enter_phone_number">enter_phone_number</string>
+    <string name="camera">camera</string>
+    <string name="alarm">alarm</string>
+    <string name="university_logo_desc">university_logo_desc</string>
+    <string name="hint_email">hint_email</string>
+    <string name="hint_password">hint_password</string>
+    <string name="gallary">Gallary:</string>
+    <string name="Alarm">Alarm:</string>
+    <string name="Camera">Camera:</string>
+    <string name="Login">Login:</string>
+</resources>

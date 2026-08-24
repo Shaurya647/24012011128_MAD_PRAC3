@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_Browse" type="id" />
+    <item name="editTextText" type="id" />
+    <item name="btn_Call" type="id" />
+    <item name="editTextText2" type="id" />
+    <item name="btn_Calllog" type="id" />
+    <item name="btn_Gallery" type="id" />
+    <item name="btn_Camera" type="id" />
+    <item name="btn_Alarm" type="id" />
+    <item name="btn_Login" type="id" />
+</resources>
