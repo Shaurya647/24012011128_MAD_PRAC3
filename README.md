@@ -64,11 +64,11 @@ An Android application developed using Kotlin and Android Studio to demonstrate 
 
 |  |  |  |
 | :---: | :---: | :---: |
-| <img src="Screenshot/toast_1.png" width="250"> | <img src="Screenshot/toast_2.png" width="250"> | <img src="Screenshot/toast_3.png" width="250"> |
+| <img src="P5SS/3.1.png" width="250"> | <img src="P5SS/3.2.png" width="250"> | <img src="P5SS/3.3.png" width="250"> |
 
 |  |  |  |
 | :---: | :---: | :---: |
-| <img src="Screenshot/snackbar_2.png" width="250"> | <img src="Screenshot/snackbar_1.png" width="250"> | <img src="Screenshot/snackbar_3.png" width="250"> |
+| <img src="P5SS/3.4.png" width="250"> | <img src="P5SS/3.5.png" width="250"> |
 
 ---
 
